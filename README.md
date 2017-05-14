@@ -1,2 +1,5 @@
 # hello-world
-just another 
+
+Hi Humans!
+
+This is my first time to use GITHUB, Thanks.
